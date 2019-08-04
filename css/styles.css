@@ -150,7 +150,7 @@ hr{
   margin: 100px auto;
   border-style: dotted none none none;
   border-width: 10px;
-  border-color: #eaf6f6;
+  border-color: grey;
 }
 .footer-link:hover{
   color: #eaf6f6;
